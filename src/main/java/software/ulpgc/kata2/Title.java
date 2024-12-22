@@ -1,4 +1,4 @@
-package software.ulpgc;
+package software.ulpgc.kata2;
 
 public class Title {
     public final String id;
